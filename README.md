@@ -1,5 +1,5 @@
 ### Hello! 👋
-My name is Ben Asaf, I live in Israel. I am currently working for the following as:
+My name is Ben Asaf, I live in Seoul, South Korea. I am currently working for the following as:
 * Algorithms Developer at [Mobileye](https://www.mobileye.com "Mobileye's Homepage")
 * Senior Programmer at The Parallel Computation Lab at [The Hebrew University of Jerusalem](https://en.huji.ac.il/en "HUJI's Website")
 
