@@ -1,7 +1,7 @@
 ### Hello! 👋
 My name is Ben Asaf, I live in Seoul, South Korea.<br>
-I am currently working for the following as a Senior Programmer at The Parallel Computation Lab at [The Hebrew University of Jerusalem](https://en.huji.ac.il/en "HUJI's Website"). I am also a Former Algorithms Developer at [Mobileye](https://www.mobileye.com "Mobileye's Homepage")<br>
-where I developed a Machine Learning infrastructure.
+I am currently working for the following as a Senior Programmer at The Parallel Computation Lab at [The Hebrew University of Jerusalem](https://en.huji.ac.il/en "HUJI's Website").<br>
+I am also a Former Algorithms Developer at [Mobileye](https://www.mobileye.com "Mobileye's Homepage") where I developed a Machine Learning infrastructure.
 
 I am highly technical and I enjoy studying new material in Machine Learning, Parallel Computation, Software Engineering, Algorithms, Distributed Systems and other subjects!
 
