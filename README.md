@@ -4,7 +4,7 @@ Former:
 * Senior Programmer at The Parallel Computation Lab at [The Hebrew University of Jerusalem](https://en.huji.ac.il/en "HUJI's Website").<br>
 * Algorithms Developer at [Mobileye](https://www.mobileye.com "Mobileye's Homepage") where I developed a Machine Learning infrastructure.
 
-I am highly technical and I enjoy studying new material in Machine Learning, Parallel Computation, Software Engineering, Algorithms, Distributed Computing and other subjects!
+I am highly technical and I enjoy studying new material in Machine Learning, TinyML, Parallel Computation, Software Engineering, Algorithms, Distributed Computing and other subjects!
 
 #### Connect with me:
 [<img align="left" alt="Ben Asaf | LinkedIn" width="39px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />](https://www.linkedin.com/in/ben-asaf/) [Ben Asaf](https://www.linkedin.com/in/benasaf/)
